@@ -1,0 +1,76 @@
+- speciality: 組み込みソフトウェア設計、開発、評価。Ruby、Pythonを用いたツール作成。Jenkinsを用いた自動化。Windows、Mac、Linuxでの開発。
+- skill: C,C++,C#,Ruby,Python,Shell,OpenCV,画像処理
+- business: 組み込みソフトウェア開発、開発・評価環境自動化
+- self_recommend: |
+    組み込み環境を中心に開発業務に携わってきました。一方で、スクリプト言語を用いた開発環境の自動化、簡素化を好み、チームに貢献してきました。
+    サブリーダーまで経験し、顧客との打ち合わせなども経験しています。
+    Jenkinsについては思い入れが深く、社外の勉強会にも何回か参加していたり、プライベートでプラグインの開発に挑戦したりしました。
+    （Javaの経験不足、プライベートの時間確保が難しかったことから、実現には到りませんでした。）
+- portfolio:
+  - from_date: 2003年6月
+    to_date: 2005年7月
+    period: 26ヶ月間
+    title: 委託元JPEGコーデック開発
+    role: 詳細設計、開発、単体評価
+    skill: C言語、JPEG仕様
+    team: 3名
+  - from_date: 2005年8月
+    to_date: 2012年9月
+    period: 86ヶ月間
+    title: 委託元カラーマネジメントシステム開発
+    role: SE, 詳細設計、開発、単体評価、結合評価。サブリーダー。
+    skill: C/C++/Objective-C, Windows/MacOSX/Linux(CentOS), Jenkins/SVN, カラーマネジメントシステム、ICCプロファイル
+    team: 7名
+    description: |
+      基本設計書・詳細設計書作成。単体・結合評価計画作成。評価実施。
+      Jenkinsを用いた回帰テスト環境構築も併せて実施しました。
+  - from_date: 2013年10月
+    to_date: 2013年11月
+    period: 2ヶ月間
+    title: 委託元Redmineプラグイン開発
+    role: PG, 詳細設計、開発、単体評価、結合評価。単体・結合評価計画作成。
+    skill: Ruby, Linux(CentOS), Ruby on Rails
+    team: 2名
+  - from_date: 2013年12月
+    to_date: 2015年11月
+    period: 24ヶ月間
+    title: 委託元プリンタファームウェア開発
+    role: PG/SE, 詳細設計、開発、単体評価、結合評価。基本設計書・詳細設計書作成。単体・結合評価計画作成。評価実施。障害対応。
+    skill: C/C++, Linux(CentOS/MontaVistaLinux), Git, C言語でのオブジェクト指向設計。ページ記述言語。
+    team: 8名
+    description: |
+      インターネットに繋がらない情報クリーンルームでの開発でした。
+      Chefなどのプロビジョニングツールに興味を持ち、開発環境に応用しようと試みましたが、普及には到りませんでした。
+  - from_date: 2015年12月
+    to_date: 2016年11月
+    period: 12ヶ月間
+    title: 委託元スキャナファームウェア開発
+    role: PG/SE, 詳細設計、開発、単体評価、結合評価。基本設計書・詳細設計書作成。単体・結合評価計画作成。評価実施。障害対応。
+    skill: C/C++/Ruby, Windows/MacOSX/Linux(CentOS/MontaVistaLinux), Jenkins/Perforce
+    team: 8名
+    description: |
+      自動化環境構築も併せて担当しました。インターネットに繋がらない情報クリーンルームでの開発でした。
+  - from_date: 2016年12月
+    to_date: 2017年9月
+    period: 10ヶ月間
+    title: 委託元プリンタファームウェア開発
+    role: PG/SE, 詳細設計、開発、単体評価、結合評価。基本設計書・詳細設計書作成。単体・結合評価計画作成。評価実施。障害対応。
+    skill: C/C++, Linux(CentOS/MontaVistaLinux), Git, C言語でのオブジェクト指向設計。ページ記述言語。
+    team: 8名
+    description: 2013/12-2015/11 のチームに戻りました。
+  - from_date: 2017年10月
+    to_date: 2018年9月
+    period: 10ヶ月間
+    title: 委託元業務アプリケーション開発
+    role: PG/SE, 詳細設計、開発、単体評価、結合評価。基本設計書・詳細設計書作成。単体・結合評価計画作成。評価実施。
+    skill: C++/C#/Python, Windows/Linux, OpenCV/Git, OpenCV、オープンソース機械学習ライブラリを用いた画像認識
+    team: 4名
+    description: 画像処理を応用したアプリ開発を主に行いました。2018年9月、エム・ソフト退職。
+  - from_date: 2018年10月
+    to_date: 現在
+    period: 1ヶ月間
+    title: 委託元Webアプリケーション開発
+    role: PG/SE
+    skill: php/JavaScript, MacOSX, Laravel/Docker
+    team: 2名
+    description: (株) iSeek 入社。
