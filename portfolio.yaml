@@ -1,12 +1,22 @@
-- speciality: 組み込みソフトウェア設計、開発、評価。Ruby、Pythonを用いたツール作成。Jenkinsを用いた自動化。Windows、Mac、Linuxでの開発。
-- skill: C,C++,C#,Ruby,Python,Shell,OpenCV,画像処理
-- business: 組み込みソフトウェア開発、開発・評価環境自動化
+- speciality: 組み込みソフトウェア設計、開発、評価。Ruby、Pythonを用いたツール作成。Jenkinsを用いた自動化。Windows、Mac、Linuxでの開発。PHP/Laravelを用いたAPIサーバ開発。
+- skill: C,C++,C#,Ruby,Python,PHP,Shell,OpenCV,画像処理
+- business: 組み込みソフトウェア開発、開発・評価環境自動化、Webサイトサーバサイド開発
 - self_recommend: |
     組み込み環境を中心に開発業務に携わってきました。一方で、スクリプト言語を用いた開発環境の自動化、簡素化を好み、チームに貢献してきました。
     サブリーダーまで経験し、顧客との打ち合わせなども経験しています。
-    Jenkinsについては思い入れが深く、社外の勉強会にも何回か参加していたり、プライベートでプラグインの開発に挑戦したりしました。
-    （Javaの経験不足、プライベートの時間確保が難しかったことから、実現には到りませんでした。）
+    組み込み時代のスクリプト言語の経験から、Webサーバサイド開発に移行した際も、最小限の立ち上げ期間で開発業務に参入することができました。
+- region_of_interest: |
+    Human Resource分野に関心があります。昨今、採用の売り手市場状態、人材不足が叫ばれる中、優秀な人材を確保することは
+    各社共通の課題であると認識しています。
 - portfolio:
+  - from_date: 2002年6月
+    to_date: 2003年5月
+    period: 12ヶ月間
+    title: 社内SE
+    role: 運用
+    skill: Postfix、Apache
+    team: 1名
+    description: 学生時代の経験を活かし、社内SEとして、自社ウェブサーバ、メールサーバの運用を行いました。
   - from_date: 2003年6月
     to_date: 2005年7月
     period: 26ヶ月間
