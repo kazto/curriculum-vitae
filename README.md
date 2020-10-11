@@ -2,7 +2,7 @@
 
 ## 略歴
 
-[carricurum-vitae.yml]
+[carricurum vitae](carricurum-vitae.yml)
 
 ## やりたいこと・将来像
 
