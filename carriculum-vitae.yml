@@ -10,7 +10,7 @@
     まずはじめに興味を持ったのは、「採用」でした。きっかけは、現在の人材不足から、リファラル採用を知人に呼びかけたことでした。自社の魅力と課題を語りながら知人とともにキャリアについて考えることが楽しい経験でした。
     それを契機に勉強したところ、HRMサイクルなどと呼ばれるように、広報、採用、教育が企業にとってひとつなぎの課題であることが分かってきました。教育については、前職で新人教育を担当した経験、teratailでの回答、指導の実績が活きる、得意分野であると考えています。
     ゆくゆくは、企業全体のHRを発展成長に導くことができる人材になりたいと考えています。
-- portfolio:
+- carriculum_vitae:
   - from_date: 2002年6月
     to_date: 2003年5月
     period: 12ヶ月間
@@ -79,10 +79,26 @@
     team: 4名
     description: 画像処理を応用したアプリ開発を主に行いました。2018年9月、エム・ソフト退職。
   - from_date: 2018年10月
-    to_date: 現在
+    to_date: 2019年4月
     period: 7ヶ月間
     title: 委託元Webアプリケーション開発
     role: PG
     skill: php/JavaScript, MacOSX, Laravel/CodeIgniter, Docker
     team: 2名
     description: (株) iSeek 入社。
+  - from_date: 2019年4月
+    to_date: 2019年6月
+    period: 3ヶ月
+    title: 委託元業務システム開発
+    role: PG
+    skill: 
+    team: 2名
+    description: フリーランス
+  - from_date: 2019年7月
+    to_date: 現在
+    period: 1年3ヶ月
+    title: 自社サービスWebシステム開発・運用・保守
+    role: PG
+    skill: PHP/Python, CakePHP/Phalcon, AWS, Docker
+    team: 2名
+    description: フリーランス
