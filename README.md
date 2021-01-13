@@ -2,7 +2,7 @@
 
 ## 略歴
 
-[carriculum vitae](carriculum-vitae.yml)
+[carriculum vitae](carriculum-vitae.json)
 
 ## やりたいこと・将来像
 
