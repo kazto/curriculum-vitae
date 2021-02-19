@@ -122,8 +122,8 @@
     },
     {
       "from_date": "2019年7月",
-      "to_date": "現在",
-      "period": "1年5ヶ月",
+      "to_date": "2021年2月",
+      "period": "1年8ヶ月",
       "title": "自社サービスWebシステム開発・運用・保守",
       "role": "PG、運用",
       "skill": "PHP/Python, CakePHP/Phalcon, AWS, Docker",
