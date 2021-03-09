@@ -128,7 +128,17 @@
       "role": "PG、運用",
       "skill": "PHP/Python, CakePHP/Phalcon, AWS, Docker",
       "team": "6名→2名",
-      "description": ["クーコム(株)入社。エンジニアの傍ら採用担当としてカジュアル面談・一次面接を担当する。"]
+      "description": ["エンジニアの傍ら採用担当としてカジュアル面談・一次面接を担当する。"]
+    },
+    {
+      "from_date": "2021年3月",
+      "to_date": "現在",
+      "period": "0ヶ月",
+      "title": "自社サービスWebシステム開発・運用・保守",
+      "role": "PG、EM、採用担当",
+      "skill": "Ruby, Ruby on Rails, AWS, Docker",
+      "team": "",
+      "description": ["(株)iCARE入社。エンジニア/EMを担当する。"]
     }
   ]
 }
