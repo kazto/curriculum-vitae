@@ -147,13 +147,24 @@
     {
       "belongs_to": "(株) iCARE",
       "from_date": "2021年3月",
-      "to_date": "現在",
+      "to_date": "2022年1月",
       "period": "9ヶ月",
       "title": "自社サービスWebシステム開発・運用・保守",
       "role": "PG, SE",
       "skill": "Ruby, Ruby on Rails, AWS, Docker, GraphQL",
       "team": "6名",
-      "description": ["(株)iCARE入社。エンジニアとしてプロダクト開発を担当する。2021年8月CTO室へ異動、開発組織のDX改善を担当する。"]
+      "description": ["エンジニアとしてプロダクト開発を担当する。2021年8月CTO室へ異動、開発組織のDX改善を担当する。"]
+    },
+    {
+      "belongs_to": "Thinkings (株)",
+      "from_date": "2022年2月",
+      "to_date": "現在",
+      "period": "3ヶ月",
+      "title": "自社サービスWebシステム開発・運用・保守",
+      "role": "PG, SE",
+      "skill": "C#, TypeScript, React.js, MSSQL, Azure",
+      "team": "6名",
+      "description": ["自社プロダクトの開発を担当する。"]
     }
   ]
 }
