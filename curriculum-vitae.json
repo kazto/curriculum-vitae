@@ -159,12 +159,15 @@
       "belongs_to": "Thinkings (株)",
       "from_date": "2022年2月",
       "to_date": "現在",
-      "period": "3ヶ月",
-      "title": "自社サービスWebシステム開発・運用・保守",
-      "role": "PG, SE",
+      "period": "1年",
+      "title": "自社サービスWebシステム開発・運用・保守。中途エンジニアならびにインターンオンボーディング担当",
+      "role": "Assistant Manager",
       "skill": "C#, TypeScript, React.js, MSSQL, Azure",
-      "team": "6名",
-      "description": ["自社プロダクトの開発を担当する。"]
+      "team": "1名",
+      "description": [
+        "自社プロダクトの開発を担当する。",
+        "2022年8月より、中途エンジニアのオンボーディング担当、ならびにインターン運営担当。"
+      ]
     }
   ]
 }
