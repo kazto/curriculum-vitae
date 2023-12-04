@@ -1,6 +1,6 @@
 {
   "speciality": "組み込みソフトウェア設計、開発、評価。Ruby、Pythonを用いたツール作成。Jenkinsを用いた自動化。Windows、Mac、Linuxでの開発。PHP/Laravelを用いたAPIサーバ開発。Ruby/Ruby on Railsを用いたサーバサイド開発",
-  "skill": "C,C++,C#,Ruby,Python,PHP,Shell,OpenCV,画像処理,Laravel,CakePHP,Ruby on Rails,採用媒体運用,カジュアル面談,一次面接",
+  "skill": "C,C++,C#,Ruby,Python,PHP,TypeScript,React.js,Shell,OpenCV,画像処理,Laravel,CakePHP,Ruby on Rails,採用媒体運用,カジュアル面談,一次面接",
   "business": "組み込みソフトウェア開発、開発・評価環境自動化、Webシステムサーバサイド開発",
   "self_recommend": [
     "組み込み環境を中心に開発業務に携わってきました。一方で、スクリプト言語を用いた開発環境の自動化、簡素化を好み、チームに貢献してきました。",
@@ -120,7 +120,7 @@
       "role": "PG",
       "skill": "php/JavaScript, MacOSX, Laravel/CodeIgniter, Docker",
       "team": "2名",
-      "description": ["(株) iSeek 入社。委託元Webシステム開発。"]
+      "description": ["社員数5名の会社に入社。委託元Webシステム開発。"]
     },
     {
       "belongs_to": "フリーランス",
@@ -129,9 +129,9 @@
       "period": "3ヶ月",
       "title": "委託元業務システム開発",
       "role": "PG",
-      "skill": "",
+      "skill": "Microsoft SQL Server,Pleasanter",
       "team": "2名",
-      "description": ["フリーランス"]
+      "description": ["Pleasanterを用いた社内システムを構築しました。"]
     },
     {
       "belongs_to": "クーコム (株)",
@@ -142,7 +142,7 @@
       "role": "PG、運用",
       "skill": "PHP/Python, CakePHP/Phalcon, AWS, Docker",
       "team": "6名→2名",
-      "description": ["エンジニアの傍ら採用担当としてカジュアル面談・一次面接を担当する。"]
+      "description": ["自社サービスの運用保守を担当。エンジニアの傍ら採用担当としてカジュアル面談・一次面接を担当する。"]
     },
     {
       "belongs_to": "(株) iCARE",
@@ -159,7 +159,7 @@
       "belongs_to": "Thinkings (株)",
       "from_date": "2022年2月",
       "to_date": "現在",
-      "period": "1年",
+      "period": "",
       "title": "自社サービスWebシステム開発・運用・保守。中途エンジニアならびにインターンオンボーディング担当",
       "role": "Assistant Manager",
       "skill": "C#, TypeScript, React.js, MSSQL, Azure",
