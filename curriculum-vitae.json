@@ -157,7 +157,7 @@
       "belongs_to": "Thinkings (株)",
       "from_date": "2022年2月",
       "to_date": "2024年7月",
-      "period": "",
+      "period": "2年5ヶ月",
       "title": "自社サービスWebシステム開発・運用・保守。中途エンジニアならびにインターンオンボーディング担当",
       "role": "Assistant Manager",
       "skill": "C#, TypeScript, React.js, MSSQL, Azure",
@@ -171,14 +171,41 @@
     {
       "belongs_to": "(株) システムアイ",
       "from_date": "2024年8月",
-      "to_date": "現在",
-      "period": "",
+      "to_date": "2025年6月",
+      "period": "10ヶ月",
       "title": "委託元システム開発・運用・保守",
       "role": "ITコンサルタント・システムエンジニア",
       "skill": "Next.js, Flutter, React.js, Vue.js, Java, Spring Boot",
       "team": "4～12名",
       "description": [
         "委託元システム開発。不具合対応。"
+      ]
+    },
+    {
+      "belongs_to": "(株) バクエバ",
+      "from_date": "2025年7月",
+      "to_date": "2025年12月",
+      "period": "6ヶ月",
+      "title": "委託元システム開発",
+      "role": "システムエンジニア",
+      "skill": "TypeScript, DynamoDB, AWS Lambda, Node.js",
+      "team": "7名",
+      "description": [
+        "委託元システム開発。不具合対応。"
+      ]
+    },
+    {
+      "belongs_to": "(株) バクエバ",
+      "from_date": "2026年1月",
+      "to_date": "現在",
+      "period": "",
+      "title": "委託元システム開発",
+      "role": "システムエンジニア",
+      "skill": "Kotlin, TypeScript, MySQL, Spling Boot, Claude Code",
+      "team": "4名",
+      "description": [
+        "委託元システム開発。",
+	"基本設計、詳細設計、開発、単体テスト、結合テストを担当。"
       ]
     }
   ]
