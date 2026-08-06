@@ -1,13 +1,14 @@
 {
-  "speciality": "組み込みソフトウェア設計、開発、評価。Ruby、Pythonを用いたツール作成。Jenkinsを用いた自動化。Windows、Mac、Linuxでの開発。PHP/Laravelを用いたAPIサーバ開発。Ruby/Ruby on Railsを用いたサーバサイド開発, TypeScript/Node.jsを用いたサーバサイド開発。",
-  "skill": "C,C++,C#,Ruby,Python,PHP,TypeScript,React.js,Shell,OpenCV,画像処理,Laravel,CakePHP,Ruby on Rails,Hono,採用媒体運用,カジュアル面談,一次面接",
-  "business": "組み込みソフトウェア開発、開発・評価環境自動化、Webシステムサーバサイド開発",
+  "speciality": "ClaudeCode, OpenAI Codexを用いたエージェンティックエンジニアリング。",
+  "skill": "C,C++,C#,Ruby,Python,PHP,TypeScript,React.js,Shell,Laravel,CakePHP,Ruby on Rails,Hono,Docker,",
+  "business": "",
   "self_recommend": [
-    "組み込み環境を中心に開発業務に携わってきました。一方で、スクリプト言語を用いた開発環境の自動化、簡素化を好み、チームに貢献してきました。",
+    "新卒からは組み込み環境を中心に開発業務に携わってきました。一方で、スクリプト言語を用いた開発環境の自動化、簡素化を好み、チームに貢献してきました。",
     "サブリーダーまで経験し、顧客との打ち合わせなども経験しています。",
     "組み込み時代のスクリプト言語の経験から、Webサーバサイド開発に移行した際も、最小限の立ち上げ期間で開発業務に参入することができました。",
     "主となるシステム開発に並行して、開発チームの生産性向上につながるDeveloper Experienceの改善につとめました。",
-    "Thinkingsでは、開発チームの生産性向上につながる開発業務を担当し、開発チームを横断して開発体験の向上、オンボーディングの整備等を担当しました。"
+    "Thinkingsでは、開発チームの生産性向上につながる開発業務を担当し、開発チームを横断して開発体験の向上、オンボーディングの整備等を担当しました。",
+    "近年はAIを用いた開発手法の研鑽を行い、SDD、AI-DLCといった開発手法の実践を行いました。"
   ],
   "region_of_interest": [
     "いままで、「採用」「組織作り」等興味が移り変わってきましたが、今一度プロダクトエンジニアとして、製品に向き合う仕事をしていきたいと考えています。",
@@ -197,8 +198,8 @@
     {
       "belongs_to": "(株) バクエバ",
       "from_date": "2026年1月",
-      "to_date": "現在",
-      "period": "",
+      "to_date": "2026年3月",
+      "period": "3ヶ月",
       "title": "委託元システム開発",
       "role": "システムエンジニア",
       "skill": "Kotlin, TypeScript, MySQL, Spling Boot, Claude Code",
@@ -207,6 +208,37 @@
         "委託元システム開発。",
 	"基本設計、詳細設計、開発、単体テスト、結合テストを担当。"
       ]
+    },
+    {
+      "belongs_to": "(株) バクエバ",
+      "from_date": "2026年4月",
+      "to_date": "2026年6月",
+      "period": "3ヶ月",
+      "title": "委託元AIシステム開発",
+      "role": "システムエンジニア",
+      "skill": "TypeScript, MySQL, HTML, JavaScript, Claude Code",
+      "team": "2名",
+      "description": [
+        "委託元AIシステム開発。",
+	"詳細設計、開発、単体テストを担当。",
+	"委託元都合により契約終了。"
+      ]
+    },
+    {
+      "belongs_to": "(株) MapleSystems",
+      "from_date": "2026年7月",
+      "to_date": "現在",
+      "period": "",
+      "title": "委託元システム開発",
+      "role": "システムエンジニア",
+      "skill": "Python, LangChain, Chainlit, DynamoDB, Cognito, Microsoft EntraID, Claude Code",
+      "team": "5名",
+	"description": [
+        "所属会社吸収合併により転籍。",
+        "委託元RAGチャットボット開発。",
+	"詳細設計、開発、単体テスト、結合テストを担当。"
+      ]
     }
+
   ]
 }
