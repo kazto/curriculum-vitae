@@ -217,7 +217,7 @@
     {
       "belongs_to": "(株) MapleSystems",
       "from_date": "2026年7月",
-      "to_date": "現在",
+      "to_date": "2026年9月",
       "title": "委託元システム開発",
       "role": "システムエンジニア",
       "skill": "Python, LangChain, Chainlit, DynamoDB, Cognito, Microsoft EntraID, Claude Code",
@@ -227,7 +227,19 @@
         "委託元RAGチャットボット開発。",
         "詳細設計、開発、単体テスト、結合テストを担当。"
       ]
+    },
+    {
+      "belongs_to": "フリーランス",
+      "from_date": "2026年10月",
+      "to_date": "現在",
+      "title": "委託元自社システム開発",
+      "role": "システムエンジニア",
+      "skill": "PHP, Laravel, TypeScript, Vue.js, Claude Code, スクラム開発",
+      "team": "4名",
+      "description": [
+        "詳細設計、開発、単体テスト、結合テストを担当。",
+	"スクラム開発で開発。"
+      ]
     }
-
   ]
 }
